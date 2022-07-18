@@ -1,0 +1,373 @@
+[
+    {
+        "matchID": 63557,
+        "matchDateTime": "2022-07-15T20:30:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-15T18:30:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 76,
+            "teamName": "1. FC Kaiserslautern",
+            "shortName": "K'Lautern",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 55,
+            "teamName": "Hannover 96",
+            "shortName": "Hannover",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-07-15T22:24:57.007",
+        "matchIsFinished": true,
+        "matchResults": [
+            {
+                "resultID": 98256,
+                "resultName": "Endergebnis",
+                "pointsTeam1": 2,
+                "pointsTeam2": 1,
+                "resultOrderID": 1,
+                "resultTypeID": 2,
+                "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+            },
+            {
+                "resultID": 98257,
+                "resultName": "Halbzeitergebnis",
+                "pointsTeam1": 1,
+                "pointsTeam2": 0,
+                "resultOrderID": 2,
+                "resultTypeID": 1,
+                "resultDescription": "Halbzeitstand"
+            }
+        ],
+        "goals": [
+            {
+                "goalID": 94755,
+                "scoreTeam1": 1,
+                "scoreTeam2": 0,
+                "matchMinute": 11,
+                "goalGetterID": 16004,
+                "goalGetterName": "M. Wunderlich",
+                "isPenalty": false,
+                "isOwnGoal": false,
+                "isOvertime": false,
+                "comment": null
+            },
+            {
+                "goalID": 94756,
+                "scoreTeam1": 1,
+                "scoreTeam2": 1,
+                "matchMinute": 80,
+                "goalGetterID": 18423,
+                "goalGetterName": "H. Nielsen",
+                "isPenalty": false,
+                "isOwnGoal": false,
+                "isOvertime": false,
+                "comment": null
+            },
+            {
+                "goalID": 94757,
+                "scoreTeam1": 2,
+                "scoreTeam2": 1,
+                "matchMinute": 92,
+                "goalGetterID": 15530,
+                "goalGetterName": "K. Kraus",
+                "isPenalty": false,
+                "isOwnGoal": false,
+                "isOvertime": false,
+                "comment": null
+            }
+        ],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63558,
+        "matchDateTime": "2022-07-16T13:00:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-16T11:00:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 115,
+            "teamName": "SpVgg Greuther Fürth",
+            "shortName": "Fürth",
+            "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 104,
+            "teamName": "Holstein Kiel",
+            "shortName": "Kiel",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/300px-Holstein_Kiel_Logo.svg.png",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-27T08:44:26.673",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63559,
+        "matchDateTime": "2022-07-16T13:00:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-16T11:00:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 98,
+            "teamName": "FC St. Pauli",
+            "shortName": "St. Pauli",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/FC_St._Pauli_logo.png",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 79,
+            "teamName": "1. FC Nürnberg",
+            "shortName": "Nürnberg",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-27T08:44:37.503",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63562,
+        "matchDateTime": "2022-07-16T13:00:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-16T11:00:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 119,
+            "teamName": "SV Sandhausen",
+            "shortName": "Sandhausen",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SV_Sandhausen.svg",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 83,
+            "teamName": "Arminia Bielefeld",
+            "shortName": "Bielefeld",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-27T08:44:47.56",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63563,
+        "matchDateTime": "2022-07-16T13:00:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-16T11:00:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 181,
+            "teamName": "Jahn Regensburg",
+            "shortName": "Jahn",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/204px-Jahn_Regensburg_logo2014.svg.png",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 118,
+            "teamName": "SV Darmstadt 98",
+            "shortName": "Darmstadt",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-27T08:45:01.193",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63564,
+        "matchDateTime": "2022-07-16T20:30:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-16T18:30:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 78,
+            "teamName": "1. FC Magdeburg",
+            "shortName": "FCM",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/210px-1._FC_Magdeburg.svg.png",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 185,
+            "teamName": "Fortuna Düsseldorf",
+            "shortName": "Düsseldorf",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-27T08:45:10.583",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63560,
+        "matchDateTime": "2022-07-17T13:30:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-17T11:30:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 31,
+            "teamName": "SC Paderborn 07",
+            "shortName": "Paderborn",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 105,
+            "teamName": "Karlsruher SC",
+            "shortName": "Karlsruhe",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-17T12:34:46.477",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63561,
+        "matchDateTime": "2022-07-17T13:30:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-17T11:30:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 102,
+            "teamName": "FC Hansa Rostock",
+            "shortName": "Rostock",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/FC_Hansa_Logo_seit_2009.png",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 199,
+            "teamName": "1. FC Heidenheim 1846",
+            "shortName": "Heidenheim",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/830px-1._FC_Heidenheim_1846.svg.png",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-17T12:35:01.463",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    },
+    {
+        "matchID": 63565,
+        "matchDateTime": "2022-07-17T13:30:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4561,
+        "leagueName": "2. Fußball-Bundesliga 2022/2023",
+        "leagueSeason": 2022,
+        "leagueShortcut": "bl2",
+        "matchDateTimeUTC": "2022-07-17T11:30:00Z",
+        "group": {
+            "groupName": "1. Spieltag",
+            "groupOrderID": 1,
+            "groupID": 39847
+        },
+        "team1": {
+            "teamId": 74,
+            "teamName": "Eintracht Braunschweig",
+            "shortName": "Braunschweig",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 100,
+            "teamName": "Hamburger SV",
+            "shortName": "HSV",
+            "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2022-06-17T12:36:01.797",
+        "matchIsFinished": false,
+        "matchResults": [],
+        "goals": [],
+        "location": null,
+        "numberOfViewers": null
+    }
+]

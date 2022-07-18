@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team_margin">6dp</dimen>
+    <dimen name="default_font_size">18sp</dimen>
+    <dimen name="error_message_font_size">12sp</dimen>
+
+    <dimen name="row_padding">6dp</dimen>
+    <dimen name="row_tipperPadding">1dp</dimen>
+    <dimen name="teamFlag_size">30dp</dimen>
+    <dimen name="teamName_length">110dp</dimen>
+    <dimen name="tipperRanking_length">25dp</dimen>
+    <dimen name="tipperPoints_length">25dp</dimen>
+    <dimen name="team_font_size">12sp</dimen>
+    <dimen name="tipper_font_size">16sp</dimen>
+    <dimen name="goal_font_size">15sp</dimen>
+    <dimen name="teamGoals_length">60dp</dimen>
+    <dimen name="field_distance">40dp</dimen>
+    <dimen name="marginBottomToTop">100dp</dimen>
+    <dimen name="buttonWidthMain">150dp</dimen>
+    <dimen name="buttonHeightMain">60dp</dimen>
+    <dimen name="headerHeightMain">25dp</dimen>
+    <dimen name="okButtonWidthMain">80dp</dimen>
+    <dimen name="okButtonHeightMain">50dp</dimen>
+    <dimen name="welcome_text_size">40sp</dimen>
+    <dimen name="last_button_distance_bottom">60dp</dimen>
+    <dimen name="spinnerWidthMain">200dp</dimen>
+    <dimen name="spinnerHeightMain">80dp</dimen>
+    <dimen name="spinner_distance">60dp</dimen>
+    <dimen name="errorHeightMain">50dp</dimen>
+</resources>

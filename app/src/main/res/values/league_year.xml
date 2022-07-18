@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="league_year_array">
+        <item>Bundesliga 1;2021/2022,2022/2023</item> <!--bl1-->
+        <item>Bundesliga 2;2022/2023</item> <!--bl2-->
+        <item>DFB-Pokal;2022/2023</item> <!--bl2-->
+        <item>EM;2022</item>
+    </string-array>
+    <string-array name="league_shortcut_array">
+        <item>Bundesliga 1;bl1</item>
+        <item>Bundesliga 2;bl2</item>
+        <item>DFB-Pokal;dfb</item>
+        <item>EM;2022</item>
+    </string-array>
+</resources>

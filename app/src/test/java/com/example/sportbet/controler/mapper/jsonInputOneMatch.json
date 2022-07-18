@@ -1,0 +1,81 @@
+[
+    {
+        "matchID": 61934,
+        "matchDateTime": "2021-07-11T21:00:00",
+        "timeZoneID": "W. Europe Standard Time",
+        "leagueId": 4487,
+        "leagueName": "UEFA Europameisterschaft 2020",
+        "leagueSeason": 2020,
+        "leagueShortcut": "uefa-em-2020",
+        "matchDateTimeUTC": "2021-07-11T19:00:00Z",
+        "group": {
+            "groupName": "Finale",
+            "groupOrderID": 5,
+            "groupID": 37827
+        },
+        "team1": {
+            "teamId": 145,
+            "teamName": "Italien",
+            "shortName": "",
+            "teamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png",
+            "teamGroupName": null
+        },
+        "team2": {
+            "teamId": 755,
+            "teamName": "England",
+            "shortName": "",
+            "teamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/18px-Flag_of_England.svg.png",
+            "teamGroupName": null
+        },
+        "lastUpdateDateTime": "2021-07-12T08:03:52.61",
+        "matchIsFinished": true,
+        "matchResults": [
+            {
+                "resultID": 95084,
+                "resultName": "Endergebnis",
+                "pointsTeam1": 1,
+                "pointsTeam2": 1,
+                "resultOrderID": 1,
+                "resultTypeID": 2,
+                "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+            },
+            {
+                "resultID": 95085,
+                "resultName": "Halbzeit",
+                "pointsTeam1": 0,
+                "pointsTeam2": 1,
+                "resultOrderID": 2,
+                "resultTypeID": 1,
+                "resultDescription": "Zwischenstand zur Halbzeit"
+            }
+        ],
+        "goals": [
+            {
+                "goalID": 89605,
+                "scoreTeam1": 0,
+                "scoreTeam2": 1,
+                "matchMinute": null,
+                "goalGetterID": 0,
+                "goalGetterName": "",
+                "isPenalty": false,
+                "isOwnGoal": false,
+                "isOvertime": false,
+                "comment": null
+            },
+            {
+                "goalID": 89606,
+                "scoreTeam1": 1,
+                "scoreTeam2": 1,
+                "matchMinute": null,
+                "goalGetterID": 0,
+                "goalGetterName": "",
+                "isPenalty": false,
+                "isOwnGoal": false,
+                "isOvertime": false,
+                "comment": null
+            }
+        ],
+        "location": null,
+        "numberOfViewers": null
+    }
+]

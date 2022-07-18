@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SportBet</string>
+    <string name="BetGames">Spiele Tippen</string>
+    <string name="HighScore">Highscore</string>
+    <string name="ShowGames">Spiele Anzeigen</string>
+    <string name="teamSeparator">:</string>
+    <string name="defaultGameBet">\?:?</string>
+    <string name="save">Save</string>
+    <string name="OK">OK</string>
+    <string name="LeagueSelect">Ligaauswahl</string>
+    <string name="userName">Username</string>
+    <string name="WelcomeText">Sport Bet</string>
+    <string name="new_player_name">Neuer Spieler</string>
+    <string name="new_player_name_hint">Neuen Spieler anlegen</string>
+    <string name="YearSelect">Jahrauswahl</string>
+    <string name="BetPlayerSelect">Spieler auswählen</string>
+</resources>
