@@ -1,7 +1,7 @@
 package com.example.sportbet.controler.writer;
 
 import com.example.sportbet.InternalConstants;
-import com.example.sportbet.model.match.MatchBet;
+import com.example.sportbet.model.bet.MatchBet;
 import com.example.sportbet.model.player.Player;
 
 import org.json.JSONArray;

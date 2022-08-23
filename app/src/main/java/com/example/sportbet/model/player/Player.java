@@ -1,6 +1,6 @@
 package com.example.sportbet.model.player;
 
-import com.example.sportbet.model.match.MatchBet;
+import com.example.sportbet.model.bet.MatchBet;
 
 import java.util.ArrayList;
 import java.util.List;

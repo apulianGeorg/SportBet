@@ -1,11 +1,10 @@
-package com.example.sportbet.model.match;
+package com.example.sportbet.model.match.internal;
 
 import lombok.Data;
 
 @Data
 public class Goal {
 
-    //TODO: TEST
     private Integer minute;
     private String scorerName;
     private boolean isOwnGoal;

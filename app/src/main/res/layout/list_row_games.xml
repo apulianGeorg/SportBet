@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/team1Icon"
+        android:layout_width="@dimen/teamFlag_size"
+        android:layout_height="@dimen/teamFlag_size"
+        android:src="@drawable/abc_vector_test"
+        android:contentDescription="@string/team1IconDescription" />
+
+    <!-- TeamName1-->
+    <TextView
+        android:id="@+id/team1Name"
+        android:layout_marginStart="@dimen/team_margin"
+        android:layout_width="@dimen/teamName_length"
+        android:layout_height="@dimen/teamName_height"
+        android:textSize="@dimen/team_font_size"
+        android:layout_gravity="center" />
+
+    <!-- Ergebnis-->
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="@dimen/teamGoals_length"
+        android:layout_height="@dimen/teamName_height"
+        android:gravity="center"
+        android:hint="@string/defaultGameBet"
+        android:textSize="@dimen/goal_font_size" />
+
+    <!-- TeamName2-->
+    <TextView
+        android:id="@+id/team2Name"
+        android:layout_width="@dimen/teamName_length"
+        android:layout_height="@dimen/teamName_height"
+        android:gravity="end"
+        android:layout_gravity="center"
+        android:textSize="@dimen/team_font_size" />
+
+    <ImageView
+        android:id="@+id/team2Icon"
+        android:layout_width="@dimen/teamFlag_size"
+        android:layout_height="@dimen/teamFlag_size"
+        android:src="@drawable/abc_vector_test"
+
+        android:contentDescription="@string/team2IconDescription" />
+</LinearLayout>

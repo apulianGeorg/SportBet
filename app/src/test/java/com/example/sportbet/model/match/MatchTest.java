@@ -7,6 +7,10 @@ import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertThrows;
 import static org.junit.Assert.assertTrue;
 
+import com.example.sportbet.model.match.internal.Goal;
+import com.example.sportbet.model.match.internal.Match;
+import com.example.sportbet.model.match.internal.Team;
+
 import org.junit.Test;
 
 import java.time.LocalDateTime;
@@ -51,20 +55,20 @@ public class MatchTest {
         assertEquals(1, match.getMatchId());
         assertTrue(match.isMatchIsFinished());
         assertEquals("Gutenstetten", match.getLocation());
-        assertEquals(LocalDateTime.of(2022, 7, 13, 9, 23, 59), match.getMatchTime());
+        assertEquals("2022-07-13T09:23:59", match.getMatchTime());
         assertEquals("2 : 3", match.getResult());
         assertEquals(12, match.getTeam1().getTeamId());
         assertEquals(13, match.getTeam2().getTeamId());
     }
 
-    @Test
+/*    @Test
     public void setIncorrectMatchTime() {
         Match match = new Match();
         assertThrows(DateTimeParseException.class, () -> match.setMatchTime("2022-07-13T09:23:60"));
         assertThrows(DateTimeParseException.class, () -> match.setMatchTime("2022-07-32T09:23:59"));
         assertThrows(DateTimeParseException.class, () -> match.setMatchTime("2022-13-02T09:23:59"));
         assertThrows(DateTimeParseException.class, () -> match.setMatchTime("Hugo"));
-    }
+    }*/
 
     private Team getTeam(int teamId, String teamName) {
         return new Team(teamId, teamName, null);

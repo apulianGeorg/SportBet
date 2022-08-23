@@ -13,4 +13,7 @@ public class InternalConstants {
     public final static String PlayerGameIsEvaluated="PlayerGameIsEvaluated";
 
     public final static String EmptyStr="";
+
+    public final static int VIEW_TYPE_GAME_HEADER = 0;
+    public static final int VIEW_TYPE_GAME = 1;
 }

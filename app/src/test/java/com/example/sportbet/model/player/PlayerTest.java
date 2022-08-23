@@ -3,8 +3,8 @@ package com.example.sportbet.model.player;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-import com.example.sportbet.model.match.InvalidBetException;
-import com.example.sportbet.model.match.MatchBet;
+import com.example.sportbet.model.bet.InvalidBetException;
+import com.example.sportbet.model.bet.MatchBet;
 
 import org.junit.Test;
 

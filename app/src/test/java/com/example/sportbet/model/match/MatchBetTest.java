@@ -3,6 +3,9 @@ package com.example.sportbet.model.match;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
 
+import com.example.sportbet.model.bet.InvalidBetException;
+import com.example.sportbet.model.bet.MatchBet;
+
 import org.junit.Test;
 
 public class MatchBetTest {

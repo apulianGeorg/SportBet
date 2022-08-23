@@ -1,7 +1,7 @@
 package com.example.sportbet.controler;
 
-import com.example.sportbet.model.match.Match;
-import com.example.sportbet.model.match.MatchBet;
+import com.example.sportbet.model.match.internal.Match;
+import com.example.sportbet.model.bet.MatchBet;
 
 import java.util.ArrayList;
 

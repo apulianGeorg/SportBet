@@ -14,4 +14,6 @@
     <string name="new_player_name_hint">Neuen Spieler anlegen</string>
     <string name="YearSelect">Jahrauswahl</string>
     <string name="BetPlayerSelect">Spieler auswählen</string>
+    <string name="team1IconDescription">Teamicon for Team 1</string>
+    <string name="team2IconDescription">Teaamicon for team2</string>
 </resources>

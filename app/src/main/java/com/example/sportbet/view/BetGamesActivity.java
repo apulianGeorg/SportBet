@@ -9,8 +9,6 @@ public class BetGamesActivity extends OnCreateClass {
     protected void onSpecificCreate() {
 
         setContentView(R.layout.game_list);
-        TextView textView = findViewById(R.id.dummyText);
-        textView.setText("BetGames Activity");
 
     }
 }

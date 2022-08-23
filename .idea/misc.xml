@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/bet_player.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/bet_player.xml" value="0.25" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/exception_output.xml" value="0.12864583333333332" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/game_list.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/game_list_new.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/list_row_games.xml" value="0.17" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/list_row_games_header.xml" value="0.1" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/list_row_higscore.xml" value="0.1" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/list_row_tipps.xml" value="0.10218978102189781" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/SportBet/app/src/main/res/layout/select_league_year.xml" value="0.21" />

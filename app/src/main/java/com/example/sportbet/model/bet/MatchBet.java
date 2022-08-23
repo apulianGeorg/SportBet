@@ -1,4 +1,4 @@
-package com.example.sportbet.model.match;
+package com.example.sportbet.model.bet;
 
 import lombok.Data;
 

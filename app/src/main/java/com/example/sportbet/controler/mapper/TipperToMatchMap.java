@@ -2,8 +2,8 @@ package com.example.sportbet.controler.mapper;
 
 import com.example.sportbet.controler.MatchHelper;
 import com.example.sportbet.controler.MatchService;
-import com.example.sportbet.model.match.Match;
-import com.example.sportbet.model.match.MatchBet;
+import com.example.sportbet.model.match.internal.Match;
+import com.example.sportbet.model.bet.MatchBet;
 import com.example.sportbet.model.player.Player;
 
 import java.util.ArrayList;

@@ -22,6 +22,9 @@ import java.util.LinkedHashMap;
 import java.util.Objects;
 
 public class MainActivity extends OnCreateClass {
+    //TODO: Refactoring MVVM
+    //TODO: statische Klassen?
+    //TODO: TESTS
     /*
     TODO: Einstellungen um auswählen zu können wieviele Punkte vergeben werden oder neue Ligen anlegen
     Liga und Jahr auswählen

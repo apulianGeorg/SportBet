@@ -1,8 +1,4 @@
-package com.example.sportbet.model.match;
-
-import android.os.Build;
-
-import androidx.annotation.RequiresApi;
+package com.example.sportbet.model.match.internal;
 
 import com.example.sportbet.InternalConstants;
 
@@ -15,24 +11,18 @@ import lombok.Data;
 
 @Data
 public class Match {
-    public static final String T_00_00_00 = "0000-00-00T00:00:00";
     private int matchId;
     private Team team1;
     private Team team2;
     private List<Goal> goalsTeam1;
     private List<Goal> goalsTeam2;
     private String location;
+    private MatchGroup group;
     private boolean matchIsFinished = false;
-    private LocalDateTime matchTime;
-
-    @RequiresApi(api = Build.VERSION_CODES.O)
-    public void setMatchTime(String matchTime) {
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss");
-        if (Objects.equals(matchTime, InternalConstants.EmptyStr)){
-            matchTime = T_00_00_00;
-        }
-        this.matchTime = LocalDateTime.parse(matchTime, formatter);
-    }
+    //Format "2021-07-11T21:00:00"
+    //Can not use LocalDateTime because of Api level < 26
+    //SimpleDateTimeFormatter I get only Date
+    private String matchTime;
 
     public String getResult() {
         if (matchIsFinished) {
