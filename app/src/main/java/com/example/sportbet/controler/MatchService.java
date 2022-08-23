@@ -7,7 +7,6 @@ import com.example.sportbet.model.match.internal.Match;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-//TODO: Tests
 public class MatchService {
 
     private static final HashMap<String, ArrayList<Match>> leagueYearMatchList = new HashMap<>();

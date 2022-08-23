@@ -19,7 +19,6 @@ import java.util.List;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
-//TODO: Tests
 public class JsonToMatchListMap {
 
     private final TeamService teamService;

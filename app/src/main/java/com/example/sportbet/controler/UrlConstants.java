@@ -1,5 +1,6 @@
 package com.example.sportbet.controler;
 
+//TODO: Brauchen wir das? Bzw welche davon brauchen wir?
 public class UrlConstants {
     public final static String UrlPrefix ="https://www.openligadb.de/api/getmatchdata/";
     public final static String MatchId ="MatchID";

@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-//TODO: Tests
+//TODO: Brauchen wir das?
 public class MyJsonWriter {
 
     public static void write(String jsonStr) {

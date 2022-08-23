@@ -1,21 +1,17 @@
 package com.example.sportbet.controler;
 
 import android.content.res.Resources;
-import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Canvas;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-//TODO: Tests
 public class TeamIconService {
 
     private final ExecutorService executor
@@ -55,10 +51,7 @@ public class TeamIconService {
                 int width = drawable.getIntrinsicWidth();
                 int height = drawable.getIntrinsicHeight();
 
-                int scaledWidth = width;
-                int scaledHeight = height;
-
-                drawable.setBounds(0, 0, scaledWidth, scaledHeight);
+                drawable.setBounds(0, 0, width, height);
                 drawable.setVisible(true, true);
 
                 return drawable;

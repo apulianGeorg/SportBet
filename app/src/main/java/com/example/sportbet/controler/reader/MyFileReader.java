@@ -5,7 +5,7 @@ import com.example.sportbet.InternalConstants;
 import java.io.File;
 import java.io.IOException;
 
-//TODO: Tests
+//TODO: Brauchen wir das?
 public class MyFileReader {
 
     public static String readFile() {

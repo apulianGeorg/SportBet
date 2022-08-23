@@ -12,7 +12,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
-//TODO: Tests
+//TODO: Brauchen wir das?
 public class FileToTipperListMap {
     public static List<Player> mapFileToTipperList(String fileInput) throws JSONException, InvalidBetException {
         List<Player> tipperList = new ArrayList<>();

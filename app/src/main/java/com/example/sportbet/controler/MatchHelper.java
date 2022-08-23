@@ -5,7 +5,7 @@ import com.example.sportbet.model.bet.MatchBet;
 
 import java.util.ArrayList;
 
-//TODO: Tests
+//TODO: Brauchen wir das?
 public class MatchHelper {
 
     public static Match getCorrespondingMatchViaMatchID(MatchBet matchBet, ArrayList<Match> matches) {
